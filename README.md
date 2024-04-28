@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikhar Uttam</h1>
-<h4 align="center">🔥A passionate software engineer from India,💻crafting digital solutions with innovation and expertise!💡</h4>
+<h3 align="center">🔥A passionate software engineer from India,💻crafting digital solutions with innovation and expertise!💡</h3>
 
 <img align="right" alt="coding" width="370" src="https://github.com/dungeonmaster161/dungeonmaster161/blob/main/JXA0.gif" />
 
