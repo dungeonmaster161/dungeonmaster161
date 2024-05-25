@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Java**  and  **Javascript**  
 
 - 📫 How to reach me **uttam.shikhar16@gmail.com**
 
